@@ -1,0 +1,14 @@
+{
+  "name": "vh-uno",
+  "version": "1.0.0",
+  "description": "VH UNO: multiplayer UNO for up to 20 players over your local network.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
